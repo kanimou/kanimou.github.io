@@ -1,17 +1,3 @@
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Kanimou</title>
-<meta name="generator" content="Jekyll v3.8.7" />
-<meta property="og:title" content="Kanimou" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://kanimou.tk/" />
-<meta property="og:url" content="http://kanimou.tk/" />
-<meta property="og:site_name" content="Kanimou" />
-<meta name="description" content="4techgay btw" />
-<meta name="theme-color" content="#2eff00" />
-<script type="application/ld+json">
-{"@type":"WebSite","headline":"Kanimou","url":"http://kanimou.tk/","name":"Kanimou","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kanimou/kamimou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
