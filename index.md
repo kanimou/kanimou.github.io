@@ -1,3 +1,9 @@
+<head>
+  <title>Kanimou</title>
+  <meta name="description" content="4techgay btw">
+  <meta name="theme-color" content="#2eff00">
+</head>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kanimou/kamimou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
