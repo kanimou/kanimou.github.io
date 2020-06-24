@@ -1,8 +1,18 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kanimou/kamimou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+roman = caveman
+4tech = gay
+maknix = gay
+kanimou = meme
+gamer grill = epic
+ribkix = developer
+psycho small = pedophile
+tohru = bully
+elma = gluttony
+andrew = fighter
+lizzy = account deleter
+vale = normie
+nervo pros = warzone
 
 ### Markdown
 
