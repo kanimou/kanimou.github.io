@@ -1,18 +1,18 @@
 ## Welcome to GitHub Pages
 
-roman = caveman
-4tech = gay
-maknix = gay
-kanimou = meme
-gamer grill = epic
-ribkix = developer
-psycho small = pedophile
-tohru = bully
-elma = gluttony
-andrew = fighter
-lizzy = account deleter
-vale = normie
-nervo pros = warzone
+- roman = caveman
+- 4tech = gay
+- maknix = gay
+- kanimou = meme
+- gamer grill = epic
+- ribkix = developer
+- psycho small = pedophile
+- tohru = bully
+- elma = gluttony
+- andrew = fighter
+- lizzy = account deleter
+- vale = normie
+- nervo pros = warzone
 
 ### Markdown
 
