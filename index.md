@@ -1,7 +1,7 @@
 ## Welcome to Kans friend group dictionary!
 
 - roman = caveman
-- 4tech = gay
+- 4tech = annoying
 - maknix = gay
 - kanimou = meme
 - gamer grill = epic
