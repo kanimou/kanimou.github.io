@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kans friend group dictionary!
 
 - roman = caveman
 - 4tech = gay
