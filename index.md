@@ -2,7 +2,7 @@
 
 - roman = caveman
 - 4tech = helping hand
-- maknix = gay
+- maknix = demon
 - kanimou = meme
 - gamer grill = epic
 - ribkix = developer
