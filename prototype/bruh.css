@@ -8,20 +8,20 @@ h2 {
   font-family: "Arial", sans;
 }
 .youtube:link {
-  color:red
+  background-color:red
 }
 .youtube:clicked {
-  color:red
+  background-color:red
 }
 .discord:link {
-  color:purple
+  background-color:purple
 }
 .discord:clicked {
-  color:purple
+  background-color:purple
 }
 .twitter:link {
-  color:light-blue
+  background-color:light-blue
 }
 .twitter:clicked {
-  color:light-blue
+  background-color:light-blue
 }
