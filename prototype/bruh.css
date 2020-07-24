@@ -7,12 +7,21 @@ p {
 h2 {
   font-family: "Arial", sans;
 }
-.youtube {
+.youtube:link {
   font-color:red
 }
-.discord {
+.youtube:clicked {
+  font-color:red
+}
+.discord:link {
   font-color:purple
 }
-.twitter {
+.discord:clicked {
+  font-color:purple
+}
+.twitter:link {
+  font-color:light-blue
+}
+.twitter:clicked {
   font-color:light-blue
 }
