@@ -1,27 +1,5 @@
+p,
+h2,
 h1 {
   font-family: "Arial", sans;
-}
-p {
-  font-family: "Arial", sans;
-}
-h2 {
-  font-family: "Arial", sans;
-}
-.youtube:link {
-  background-color:red
-}
-.youtube:clicked {
-  background-color:red
-}
-.discord:link {
-  background-color:purple
-}
-.discord:clicked {
-  background-color:purple
-}
-.twitter:link {
-  background-color:light-blue
-}
-.twitter:clicked {
-  background-color:light-blue
 }
