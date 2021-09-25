@@ -1,6 +1,6 @@
 ## Welcome to Kans friend group dictionary!
 
-- roman = caveman
+- roman = caveman/dead dude
 - 4tech = helping hand
 - maknix = demon
 - kanimou = meme
@@ -12,6 +12,11 @@
 - andrew = fighter
 - lizzy = account deleter
 - vale = normie
+- rio = grammar pro
+- manfred = underage
+- akko = ugly
+- atago = hot
+- lucifer = succubus
 - nervo pros = warzone
 
-### idk what else to put here
+### idk what else to put here oh yeah rio likes farding
