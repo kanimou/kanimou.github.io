@@ -17,6 +17,10 @@
 - akko = ugly
 - atago = hot
 - lucifer = succubus
+- emma/nami = artist 
+- reimu = cute (added for emma yes)
+- lightyyyafk = epic man dude
+- mushroomafk = epic girl dude
 - nervo pros = warzone
 
-### idk what else to put here oh yeah rio likes farding
+### idk what else to put here oh yeah rio likes eating fortnite balls for breakfast
