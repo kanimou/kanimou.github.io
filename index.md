@@ -21,6 +21,8 @@
 - reimu = cute (added for emma yes)
 - lightyyyafk = epic man dude
 - mushroom = epic girl dude
+- clockistan = huge dumbass beggar incel
+- jumpix = hentai addict 
 - rei/vyxlet = epic cool *person*
 - anna = epic cool woman
 - nervo pros = dead
