@@ -20,8 +20,12 @@
 - emma/nami = artist 
 - reimu = cute (added for emma yes)
 - lightyyyafk = epic man dude
-- mushroomafk = epic girl dude
-- vyxlet = epic cool girl
-- nervo pros = warzone
+- mushroom = epic girl dude
+- rei/vyxlet = epic cool *person*
+- anna = epic cool woman
+- nervo pros = dead
+- kan smp = semi-dead
+- mmmm = warzone
 
 ### idk what else to put here oh yeah rio likes eating fortnite balls for breakfast
+4tech: NO HE DOESNT..
